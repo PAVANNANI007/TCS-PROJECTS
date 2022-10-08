@@ -1,0 +1,21 @@
+1)sdlc-software development life cycle
+
+it is process use by the software industry to design develop and test high quality softwares
+7 phases-
+--planning
+--analysis
+--design
+--development
+--testing
+--implementation
+--maintanance
+
+2)does java have pointers
+
+it doesnnt have pointers it has references
+java collections use these references
+
+angular-
+https://cheatography.com/spegusess/cheat-sheets/angular/
+sql-
+https://cheatography.com/nimakarimian/cheat-sheets/sql-cheatsheet/
